@@ -4,15 +4,6 @@
 
 A boilerplate project demonstrating how to connect to the Telegram Bot API using Golang. This repository provides a starting point for developers who want to build Telegram bots in Go.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 Telegram Bot API Boilerplate in Golang is a minimalistic project designed to help developers kickstart their Telegram bot development journey with Go programming language. This boilerplate provides a basic structure and setup for interacting with the Telegram Bot API, allowing developers to focus on building the bot's functionality.
